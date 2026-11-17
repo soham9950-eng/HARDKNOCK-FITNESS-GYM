@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soham9950-eng.github.io/HARDKNOCK-FITNESS-GYM/sitemap.xml
